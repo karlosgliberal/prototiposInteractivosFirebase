@@ -13,7 +13,7 @@ BikoLabs es un espacio para la creación, especulación y experimentación. Un l
 BikoLabs es un proyecto ideado por Biko e Interzonas.
 
 
-##Enlaces
+## Enlaces
 * [Firebase](https://firebase.google.com/)
 * [Photon](https://www.particle.io/)
 * [p5.js](https://p5js.org/)
