@@ -1,0 +1,14 @@
+{
+    "event": "accion",
+    "url": "https://particle-14ac4.firebaseio.com/ejemploInteractivo.json",
+    "requestType": "POST",
+    "query": {
+    	"auth":"tu_key"
+    },
+    "json": {
+      "dato": "{{PARTICLE_EVENT_VALUE}}",
+		    "ts": "{{PARTICLE_PUBLISHED_AT}}"
+    },
+    "mydevices": true,
+    "noDefaults": true
+}
