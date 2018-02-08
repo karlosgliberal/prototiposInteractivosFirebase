@@ -1,9 +1,9 @@
 # Prototipos interactivos Firebase
 Plantilla base para crear Prototipos interactivos con Firebase.
 En este caso la interacción la realizamos con photon una placa compatible con
-Arduino que se integra con la nube de particles.
+Arduino que se integra con la nube de particles y la visualización la realizamos con p5.js
 
-En este video puedes ver una explicación más en detalle.
+En este video puedes ver una explicación más en detalle:  https://youtu.be/JrF3gDO1nv4
 
 ![Looping GiF](nickname_processing_loop.gif) Busca un gif aitor
 
